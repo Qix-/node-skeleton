@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "author": "Qix (http://github.com/qix-)",
   "keywords": [],
+  "license": "MIT",
   "scripts": {
     "pretest": "node_modules/.bin/jshint ./*.js",
     "test": "node_modules/.bin/mocha"
