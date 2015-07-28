@@ -2,4 +2,5 @@
 Skeleton Node.JS module
 
 ## License
-Licensed under the MIT license
+Licensed under the [MIT License](http://opensource.org/licenses/MIT).
+You can find a copy of it in [LICENSE](LICENSE).
