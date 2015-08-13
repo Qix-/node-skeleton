@@ -6,7 +6,7 @@
   "keywords": [],
   "license": "MIT",
   "scripts": {
-    "pretest": "node_modules/.bin/jshint ./*.js && node_modules/.bin/xo",
+    "pretest": "node_modules/.bin/xo",
     "test": "node_modules/.bin/mocha --compilers coffee:coffee-script/register"
   },
   "repository": {
@@ -17,7 +17,6 @@
     "coffee-script": "^1.9.3",
     "coveralls": "^2.11.2",
     "istanbul": "^0.3.17",
-    "jshint": "^2.8.0",
     "mocha": "^2.2.5",
     "should": "^7.0.1",
     "xo": "^0.5.2"
