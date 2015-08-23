@@ -6,8 +6,8 @@
   "keywords": [],
   "license": "MIT",
   "scripts": {
-    "pretest": "node_modules/.bin/xo",
-    "test": "node_modules/.bin/mocha --compilers coffee:coffee-script/register"
+    "pretest": "xo",
+    "test": "mocha --compilers coffee:coffee-script/register"
   },
   "repository": {
     "type": "git",
